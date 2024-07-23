@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi, I'm Franklin Jetty Johnson, and I'm the founder of BrosCode! I make noodles, music, and websites when I'm bored. My coding journey began in 8th grade with Java, but JavaScript recently became my go-to language. Beyond coding, I make music covers and post them on social media. I'm also the proud founder of a multi-genre music band named Infinity. My journey in tech and music is driven by creativity and innovation, aiming to deliver excellence in both fields.
 
 <!--
 **jhonsfranky17/jhonsfranky17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
