@@ -13,6 +13,7 @@ I'm a full-stack web developer and I'm the founder of BrosCode! I make noodles, 
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Hono" width="30px" style="padding-right:10px;" src="https://hono.dev/favicon.ico" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/python--v1.png" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
