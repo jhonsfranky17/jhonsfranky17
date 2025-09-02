@@ -1,8 +1,20 @@
 # Franklin Jetty Johnson
 
-**`Believer`**
+## Full-Stack Web Developer | AI & Music Enthusiast | Freelancer
 
-I'm a full-stack web developer and I'm the cofounder of BrosCode! I make noodles, music, and websites when I'm bored. My coding journey began in 8th grade with Java, but JavaScript recently became my go-to language. Beyond coding, I make music covers and post them on social media. I'm also the proud founder of a multi-genre music band named Infinity. My journey in tech and music is driven by creativity and innovation, aiming to deliver excellence in both fields. I publish web development related content on "[BrosCode][broscode]" and my music content on "[jhonsfranky17][instagram]" and "[Infinity Band][youtube]."
+* Passionate about building impactful digital experiences by combining creativity, technology, and innovation.
+* Experienced in full-stack development, with a strong focus on scalable web applications and AI-powered solutions.
+  
+## Currently working on
+* AI-powered Music Generation Platform – developing an intelligent web platform that generates music using AI models.
+* E-commerce Web Application – building a feature-rich e-commerce platform for a client as a freelancer.
+
+## Let’s Connect
+* Portfolio: [https://franklin-jetty-johnson.vercel.app/]
+* LinkedIn: [https://www.linkedin.com/in/franklin-jetty-johnson-a02961170/]
+* Email: [franklinjettyjohnson6@gmail.com]
+
+I believe in blending technology and creativity to craft solutions that inspire and deliver real value.
 
 
 ---
@@ -14,6 +26,7 @@ I'm a full-stack web developer and I'm the cofounder of BrosCode! I make noodles
 <img align="left" alt="Hono" width="30px" style="padding-right:10px;" src="https://hono.dev/favicon.ico" />
 <img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/python--v1.png" />
+<img align="left" alt="Tensorflow" width="30px" style="padding-right:10px;" src="https://icon.icepanel.io/Technology/svg/TensorFlow.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
