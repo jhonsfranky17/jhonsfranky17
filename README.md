@@ -5,14 +5,15 @@
 * Passionate about building impactful digital experiences by combining creativity, technology, and innovation.
 * Experienced in full-stack development, with a strong focus on scalable web applications and AI-powered solutions.
   
-## Currently working on
+## Currently Working On
 * AI-powered Music Generation Platform – developing an intelligent web platform that generates music using AI models.
 * E-commerce Web Application – building a feature-rich e-commerce platform for a client as a freelancer.
 
-## Let’s Connect
-* Portfolio: [https://franklin-jetty-johnson.vercel.app/]
-* LinkedIn: [https://www.linkedin.com/in/franklin-jetty-johnson-a02961170/]
-* Email: [franklinjettyjohnson6@gmail.com]
+## Let's Connect
+[portfolio]: https://franklin-jetty-johnson.vercel.app/
+[youtube]: https://www.youtube.com/@infinityband4631
+[instagram]: https://www.instagram.com/jhonsfranky17/
+[broscode]: https://www.instagram.com/broscode.dev/
 
 I believe in blending technology and creativity to craft solutions that inspire and deliver real value.
 
@@ -36,9 +37,3 @@ I believe in blending technology and creativity to craft solutions that inspire 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-
-
-[website]: https://github.com/jhonsfranky17
-[youtube]: https://www.youtube.com/@infinityband4631
-[instagram]: https://www.instagram.com/jhonsfranky17/
-[broscode]: https://www.instagram.com/broscode.dev/
