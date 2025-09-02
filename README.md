@@ -10,10 +10,10 @@
 * E-commerce Web Application – building a feature-rich e-commerce platform for a client as a freelancer.
 
 ## Let's Connect
-[portfolio]: https://franklin-jetty-johnson.vercel.app/
-[youtube]: https://www.youtube.com/@infinityband4631
-[instagram]: https://www.instagram.com/jhonsfranky17/
-[broscode]: https://www.instagram.com/broscode.dev/
+Portfolio: [https://franklin-jetty-johnson.vercel.app/]
+Freelance: [https://www.instagram.com/broscode.dev/]
+Instagram: [https://www.instagram.com/jhonsfranky17/]
+Youtube: [https://www.youtube.com/@infinityband4631]
 
 I believe in blending technology and creativity to craft solutions that inspire and deliver real value.
 
