@@ -1,15 +1,15 @@
 # Franklin Jetty Johnson
 
-## Full-Stack Web Developer | AI & Music Enthusiast | Freelancer
+### Full-Stack Web Developer | AI & Music Enthusiast | Freelancer
 
 * Passionate about building impactful digital experiences by combining creativity, technology, and innovation.
 * Experienced in full-stack development, with a strong focus on scalable web applications and AI-powered solutions.
   
-## Currently Working On
+### Currently Working On
 * AI-powered Music Generation Platform – developing an intelligent web platform that generates music using AI models.
 * E-commerce Web Application – building a feature-rich e-commerce platform for a client as a freelancer.
 
-## Let's Connect
+### Let's Connect
 * [Portfolio](https://franklin-jetty-johnson.vercel.app/)
 * [Freelance](https://www.instagram.com/broscode.dev/)
 * [Instagram](https://www.instagram.com/jhonsfranky17/)
